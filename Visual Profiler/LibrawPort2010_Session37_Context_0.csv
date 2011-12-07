@@ -1,0 +1,14 @@
+# CUDA_PROFILE_LOG_VERSION 2.0
+# CUDA_PROFILE_CSV 1
+# TIMESTAMPFACTOR 123abb91d9a5feee
+# CUDA_DEVICE 0 GeForce GTX 470
+gpustarttimestamp,method,gputime,cputime,occupancy,gridSizeX,gridSizeY,gridSizeZ,blockSizeX,blockSizeY,blockSizeZ,dynSmemPerBlock,staSmemPerBlock,registerPerThread,streamID,localblocksize,memTransferSize,memtransferhostmemtype
+123e5ad0bf7ba940,memset32_aligned1D,406.784,17.115,1,65534,1,1,192,1,1,0,0,3,0,-1,,0
+123e5ad0bf81e520,memset32_aligned1D,394.848,3.511,1,65534,1,1,192,1,1,0,0,3,0,-1,,0
+123e5ad0bf87f260,memset32_aligned1D,389.28,3.072,1,65534,1,1,192,1,1,0,0,3,0,-1,,0
+123e5ad0bf8deb60,memset32_aligned1D,377.184,3.072,1,61462,1,1,192,1,1,0,0,3,0,-1,,0
+123e5ad0bf95e300,_Z13convert_inputPfjPA4_tjji10vcd_params,2862.08,12.288,1,190,380,1,16,16,1,2048,0,13,0,-1,,0
+123e5ad0c0e977a0,memset32,512.8,17.115,1,16,4064,1,192,1,1,0,0,4,0,-1,,0
+123e5ad0c0f151a0,memset32,506.272,3.95,1,16,4064,1,192,1,1,0,0,4,0,-1,,0
+123e5ad0c0f91220,memset32,506.176,3.511,1,16,4064,1,192,1,1,0,0,4,0,-1,,0
+123e5ad0c102e2e0,_Z13pre_calculatePfjS_S_S_Pijjj10vcd_paramsi,11356.7,15.36,0.833,191,254,1,16,16,1,8192,0,23,0,-1,,0

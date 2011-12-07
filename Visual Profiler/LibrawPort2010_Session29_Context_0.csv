@@ -1,0 +1,10 @@
+# CUDA_PROFILE_LOG_VERSION 2.0
+# CUDA_PROFILE_CSV 1
+# TIMESTAMPFACTOR 1231c857837e6295
+# CUDA_DEVICE 1 GeForce 8800 GTS 512
+gpustarttimestamp,method,gputime,cputime,occupancy,gridSizeX,gridSizeY,gridSizeZ,blockSizeX,blockSizeY,blockSizeZ,dynSmemPerBlock,staSmemPerBlock,registerPerThread,streamID,localblocksize,memTransferSize,memtransferhostmemtype,branch,divergent_branch,instructions,warp_serialize,cta_launched,gld_incoherent,gld_coherent,gst_incoherent,gst_coherent,local_load,local_store,tex_cache_hit,tex_cache_miss
+12387763f864e6a0,memcpyHtoD,91584.1,91953.2,,,,,,,,,,,0,0,98447360,0
+12387763feba7d80,memset32,1456.42,15.36,1,32,4040,1,96,1,1,0,40,4,0,-1,,0,24240,0,533304,0,16160,0,0,0,387840,0,0,0,0
+12387763fed0c340,memset32,1458.05,2.633,1,32,4040,1,96,1,1,0,40,4,0,-1,,0,24240,0,533304,0,16160,0,0,0,387840,0,0,0,0
+12387763fee70f80,memset32,1458.59,1.755,1,32,4040,1,96,1,1,0,40,4,0,-1,,0,24240,0,533304,0,16160,0,0,0,387840,0,0,0,0
+12387763ff034de0,_Z13pre_calculatePfjS_S_S_Pijjj10vcd_paramsi,342694,14.921,1,189,252,1,16,16,1,4608,80,10,0,-1,,0,4528381,49302,45437406,293792,5954,0,428688,0,1524224,26292864,17528576,0,0

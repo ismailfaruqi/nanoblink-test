@@ -1,0 +1,398 @@
+<!DOCTYPE cvp>
+<cvp version="4.0" >
+ <session>
+  <name>Session14</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 11:59:48</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>The first time calculate_e kernel was run.</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 12:25:34</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session16</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 15:20:20</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session17</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 15:22:58</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session18</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 16:09:07</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session19</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 16:10:49</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session21</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 16:26:49</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session22</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 16:52:53</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session23</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 17:10:53</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session24</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 17:17:28</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session25</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 17:20:14</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session26</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>09 8 2011 17:51:27</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session27</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>10 8 2011 10:02:44</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="4" >local_load,local_store</run>
+    <run number="5" >sm_cta_launched</run>
+    <run number="6" >branch</run>
+    <run number="7" >divergent_branch</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session29</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>10 8 2011 10:42:35</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session30</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>10 8 2011 10:44:37</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session31</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>10 8 2011 10:50:37</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session32</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>10 8 2011 10:51:38</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session33</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>10 8 2011 10:54:33</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session34</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>10 8 2011 10:57:15</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session36</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>16 8 2011 13:04:09</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >branch,divergent_branch,instructions,warp_serialize</run>
+    <run number="3" >cta_launched,gld_incoherent,gld_coherent,gst_incoherent</run>
+    <run number="4" >gst_coherent,local_load,local_store</run>
+    <run number="5" >tex_cache_hit,tex_cache_miss</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session35</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>28 8 2011 02:17:38</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device label="Device_1" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="4" >local_load,local_store</run>
+    <run number="5" >sm_cta_launched</run>
+    <run number="6" >branch</run>
+    <run number="7" >divergent_branch</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session37</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>29 8 2011 15:06:39</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device multProcessorCount="14" label="Device_0" id="0" computeCapability="2.0" maxGridDim="65535 65535" GpuOverlap="1" maxPitchMem="2147483647" name="GeForce GTX 470" clockFreq="1215000" L2CacheSize="655360" maxRegPerBlock="32768" chip="192" maxThreadPerSM="1536" maxShareMemPerBlock="49152" MemClockRate="1674000" maxBlockDim="1024 1024 64" asyncEngineCount="1" warpSize="32" maxThreadPerBlock="1024" MemBandwidth="1071360000" textureAlignment="512" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="1" />
+  </device>
+ </session>
+ <session>
+  <name>Session38</name>
+  <progpath>"C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Users/i-faruqi/Documents/Visual Studio 2010/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>29 8 2011 15:08:11</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device multProcessorCount="14" label="Device_0" id="0" computeCapability="2.0" maxGridDim="65535 65535" GpuOverlap="1" maxPitchMem="2147483647" name="GeForce GTX 470" clockFreq="1215000" L2CacheSize="655360" maxRegPerBlock="32768" chip="192" maxThreadPerSM="1536" maxShareMemPerBlock="49152" MemClockRate="1674000" maxBlockDim="1024 1024 64" asyncEngineCount="1" warpSize="32" maxThreadPerBlock="1024" MemBandwidth="1071360000" textureAlignment="512" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="1" >
+    <run number="2" >gld_inst_8bit,gld_inst_16bit,gld_inst_32bit,gld_inst_64bit,gld_inst_128bit</run>
+    <run number="3" >gst_inst_8bit,gst_inst_16bit,gst_inst_32bit,gst_inst_64bit,gst_inst_128bit</run>
+    <run number="4" >local_load,local_store,gld_request,gst_request</run>
+    <run number="5" >shared_load,shared_store,sm_cta_launched,l1_local_load_hit</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session39</name>
+  <progpath>"C:/Documents and Settings/i_faruqi/My Documents/Visual Studio 2005/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Documents and Settings/i_faruqi/My Documents/Visual Studio 2005/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>01 11 2011 13:49:36</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device multProcessorCount="15" label="Device_0" id="0" computeCapability="2.0" maxGridDim="65535 65535" GpuOverlap="1" maxPitchMem="2147483647" name="GeForce GTX 480" clockFreq="1401000" L2CacheSize="786432" maxRegPerBlock="32768" chip="192" maxThreadPerSM="1536" maxShareMemPerBlock="49152" MemClockRate="1848000" maxBlockDim="1024 1024 64" asyncEngineCount="1" warpSize="32" maxThreadPerBlock="1024" MemBandwidth="1419264000" textureAlignment="512" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >gld_inst_8bit,gld_inst_16bit,gld_inst_32bit,gld_inst_64bit,gld_inst_128bit</run>
+    <run number="3" >gst_inst_8bit,gst_inst_16bit,gst_inst_32bit,gst_inst_64bit,gst_inst_128bit</run>
+    <run number="4" >local_load,local_store,gld_request,gst_request</run>
+    <run number="5" >shared_load,shared_store,sm_cta_launched,l1_local_load_hit</run>
+    <run number="6" >branch,l1_local_load_miss,l1_local_store_hit</run>
+    <run number="7" >divergent_branch,l1_local_store_miss,l1_global_load_hit</run>
+    <run number="8" >inst_issued,l1_global_load_miss</run>
+    <run number="9" >inst_executed,uncached_global_load_transaction,global_store_transaction</run>
+    <run number="10" >warps_launched,threads_launched,l1_shared_bank_conflict</run>
+    <run number="11" >active_warps</run>
+    <run number="12" >active_cycles</run>
+   </context>
+  </device>
+ </session>
+ <session>
+  <name>Session28</name>
+  <progpath>"C:/Documents and Settings/i_faruqi/My Documents/Visual Studio 2005/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Documents and Settings/i_faruqi/My Documents/Visual Studio 2005/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>21 11 2011 14:47:06</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device multProcessorCount="15" label="Device_0" id="0" computeCapability="2.0" maxGridDim="65535 65535" GpuOverlap="1" maxPitchMem="2147483647" name="GeForce GTX 480" clockFreq="1401000" L2CacheSize="786432" maxRegPerBlock="32768" chip="192" maxThreadPerSM="1536" maxShareMemPerBlock="49152" MemClockRate="1848000" maxBlockDim="1024 1024 64" asyncEngineCount="1" warpSize="32" maxThreadPerBlock="1024" MemBandwidth="1419264000" textureAlignment="512" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" />
+  </device>
+ </session>
+ <session>
+  <name>Session53</name>
+  <progpath>"C:/Documents and Settings/i-faruqi/My Documents/Visual Studio 2005/Projects/LibRawPort/bin/x86/Release/LibRawTest.exe"</progpath>
+  <workdirpath>C:/Documents and Settings/i-faruqi/My Documents/Visual Studio 2005/Projects/LibRawPort/bin/x86/Release</workdirpath>
+  <datetime>28 11 2011 10:05:38</datetime>
+  <normalizedcounter>false</normalizedcounter>
+  <device multProcessorCount="15" label="Device_0" id="0" computeCapability="2.0" maxGridDim="65535 65535" GpuOverlap="1" maxPitchMem="2147483647" totalConstMem="65536" name="GeForce GTX 480" clockFreq="1401000" L2CacheSize="786432" maxRegPerBlock="32768" chip="192" maxThreadPerSM="1536" maxShareMemPerBlock="49152" maxBlockDim="1024 1024 64" MemClockRate="1848000" asyncEngineCount="1" warpSize="32" maxThreadPerBlock="1024" MemBandwidth="1419264000" textureAlignment="512" >
+   <context totalcountercount="0" invalidcountercount="0" id="0" label="Context_0" truncatedcountercount="0" trace="0" >
+    <run number="2" >gld_inst_8bit,gld_inst_16bit,gld_inst_32bit,gld_inst_64bit,gld_inst_128bit</run>
+    <run number="3" >gst_inst_8bit,gst_inst_16bit,gst_inst_32bit,gst_inst_64bit,gst_inst_128bit</run>
+    <run number="4" >local_load,local_store,gld_request,gst_request</run>
+    <run number="5" >shared_load,shared_store,sm_cta_launched,l1_local_load_hit</run>
+    <run number="6" >branch,l1_local_load_miss,l1_local_store_hit</run>
+    <run number="7" >divergent_branch,l1_local_store_miss,l1_global_load_hit</run>
+    <run number="8" >inst_issued,l1_global_load_miss</run>
+    <run number="9" >inst_executed,uncached_global_load_transaction,global_store_transaction</run>
+    <run number="10" >warps_launched,threads_launched,l1_shared_bank_conflict</run>
+    <run number="11" >active_warps</run>
+    <run number="12" >active_cycles</run>
+   </context>
+  </device>
+ </session>
+</cvp>
+
